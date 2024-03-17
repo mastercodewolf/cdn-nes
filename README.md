@@ -1,4 +1,4 @@
-# nes-cdn
+# cdn-nes
  
 Super Mario Bros;Macera,Platform;Nintendo tarafından yaratılmış, firmanın maskotu Mario'yu temel alan bir video oyunu serisi ilk oyunudur. Super Mario Bros oyundaki kurgusal yaşadığı ülkenin prensesi olan Prenses Peach'i kurtarmaya çalışmaktadır. İlk gerçek sağa ilerlemeli platform oyundur. Kendisinden sonra gelen pek çok bilgisayar ve video oyunu için örnek teşkil etmiştir ve aynı zamanda dünyanın en çok satılan oyun serisi olmayı da başarmıştır.
 Circus Charlie;Macera,Aksiyon;İlk olarak 1984 yılında Konami tarafından oyun salonlarında yayınlanan bir aksiyon oyunudur.Oyunda, Charlie tarafından tamamlanacak 6 farklı görev vardır. Altıncı aşama tamamlandıktan sonra oyun yeniden başlar, ancak daha hızlı ve daha zor seviyelerle.
